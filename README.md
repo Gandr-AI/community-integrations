@@ -2,7 +2,7 @@
 
 Guides for wiring Gandr into third-party stacks, written by the community, reviewed before merge.
 
-**Pricing:** unlimited, unmetered stream plans from **$150/mo** (annual), or **$10 per million characters** pay as you go, [gandr.ai/pricing](https://gandr.ai/pricing).
+**Pricing:** unlimited, unmetered stream plans from **$150/mo** (annual), or **$10 a month for one million tokens** (one token is one character), [gandr.ai/pricing](https://gandr.ai/pricing).
 
 ## Submit a guide
 

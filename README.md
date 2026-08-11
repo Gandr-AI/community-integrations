@@ -17,4 +17,4 @@ Guides for wiring Gandr into third-party stacks, written by the community, revie
 - The first audio byte arrives in under five minutes of following it
 - Honest notes about what didn't fit, those save the next reader an hour
 
-Official integrations live in their own repos: [gandr-livekit](https://github.com/Gandr-AI/gandr-livekit) · [gandr-mcp](https://github.com/Gandr-AI/gandr-mcp) · [examples](https://github.com/Gandr-AI/examples)
+Official integrations live in their own repos: [gandr-livekit](https://github.com/Gandr-AI/gandr-livekit) · [gandr-pipecat](https://github.com/Gandr-AI/gandr-pipecat) · [gandr-haystack](https://github.com/Gandr-AI/gandr-haystack) · [gandr-langchain](https://github.com/Gandr-AI/gandr-langchain) · [gandr-crewai](https://github.com/Gandr-AI/gandr-crewai) · [gandr-ai-sdk](https://github.com/Gandr-AI/gandr-ai-sdk) · [n8n-nodes-gandr](https://github.com/Gandr-AI/n8n-nodes-gandr) · [gandr-mcp](https://github.com/Gandr-AI/gandr-mcp) · [examples](https://github.com/Gandr-AI/examples)
